@@ -1,1 +1,1 @@
-# Bitirme_Projesi
+SistersLab tarafından düzenlenen 
