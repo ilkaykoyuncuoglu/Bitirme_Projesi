@@ -2,7 +2,7 @@
 
 ![91168b4873f6659b3e9fdfe4b89cd864](https://user-images.githubusercontent.com/40664789/182602833-ebdcf665-f052-440b-8ab3-a8b5b5961ec4.gif)
 
-#### SistersLab Bilim ve Teknolojide Kadın Derneği tarafından düzenlenen Women In Tech Akademisi sonunda, Bitirme Projesi olarak NBA datası ile veri analizi yapıldı. 
+# SistersLab Bilim ve Teknolojide Kadın Derneği tarafından düzenlenen Women In Tech Akademisi sonunda, Bitirme Projesi olarak NBA datası ile veri analizi yapıldı. 
 
 - 5 farklı veri seti ile;
 
@@ -11,7 +11,7 @@
   * Numpy,
   * Pandas kütüphaneleri kullanılarak veri ön işleme yapıldı.
   
-#### Veri Setlerinin Açıklamaları:
+# Veri Setlerinin Açıklamaları:
 
 - Veri setleri; games, games_details, players, ranking ve teams'tir.
 
@@ -25,7 +25,7 @@
 
   * Teams (df5): Takıma ait bilgiler
 
-#### Bu ön işleme sonucunda veri seti, sonraki adımlarda yapılacak olan analizlere hazır hale getirilmek için düzenlendi.
+# Bu ön işleme sonucunda veri seti, sonraki adımlarda yapılacak olan analizlere hazır hale getirilmek için düzenlendi.
 
 - Bu işlemler içerisinde; 
 
